@@ -1,37 +1,37 @@
 <h1 align="center">User List API</h1>
 
 <h3 align="center">
-  :rocket: Simple API for listing and filtering users developed using pure NodeJS. 🚀
+  :rocket: API simples para listar e filtrar usuários desenvolvida usando NodeJS puro. 🚀
 </h3>
 
-# :computer: Technologies
+# :computer: Tecnologias
 
-This project was made using the following technologies:
+Este projeto foi feito usando as seguintes tecnologias:
 
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [NodeJS](https://github.com/nodejs/node)
 
-## How to Start?
+## Como iniciar?
 
-### Requirements
+### Requisitos
 
-1.  **Clone the project and access the folder**
+1.  **Clone o projeto e acesse a pasta**
 
 ```bash
 git clone https://github.com/DiogoAMV/modules.git && cd modules
 ```
 
-2.  **Follow the steps below**
+2.  **Siga os passos abaixo**
 
 ```bash
-# In the root folder of the project, run the command:
+# Na pasta raiz do projeto, execute o comando:
 node src/index.js
-# A server will be started at the URL "http://localhost:3000"
+# Um servidor será iniciado na URL "http://localhost:3000"
 ```
 
 ---
 
-Feito com :purple_heart: by [Diogo Marques](https://github.com/DiogoAMV)
+Feito com :purple_heart: por [Diogo Marques](https://github.com/DiogoAMV)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diogo%20Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogomarques/)](https://www.linkedin.com/in/diogo-marques-719950221/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato.diogoamv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.diogoamv@gmail.com)](mailto:contato.diogoamv@gmail.com)
